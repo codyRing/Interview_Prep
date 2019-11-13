@@ -22,9 +22,9 @@ Only roles from the roles table can exist within users_roles
 a user can only have a specific role once
  */
 
-Drop table k_users_roles
-Drop table k_users
-Drop table k_roles
+--Drop table k_users_roles
+--Drop table k_users
+--Drop table k_roles
 
 Create table k_users(
 id integer not null primary key,
@@ -41,7 +41,7 @@ foreign key(userid) references k_users(id),
 foreign key(roleid) references k_roles(id),
 unique (userid,roleid)
 )
---ALTER TABLE k_users_roles ADD UNIQUE (userid, roleid)
+
 
 insert into k_users(id,username) values
 (1,'stan'),
