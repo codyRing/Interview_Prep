@@ -1,0 +1,169 @@
+https://boards.greenhouse.io/karat/jobs/4216335002
+
+2nd floor of condon hall
+
+Entering from the front entrance (NE Campus Parkway):
+You are on the first (1st) floor of Condon Hall. Take a slight left and walk towards the center
+of the space. On your right, you will see a purple walled section. Facing of the purple walled
+section, you will see classrooms, and on your right and left there will see the elevators.
+Press 2 to come up to Startup Hall.
+
+
+
+
+On-site interview: Wednesday, December 4, 2019
+9:45am-10:45am PST: Alex Kim
+
+10:45am-11:45am PST: Jason Dixon
+https://www.linkedin.com/in/jasonanthonydixon/
+Most Likely Immediate co-worker
+
+11:45am-12:45pm PST: Irena Lam
+https://www.linkedin.com/in/irenalam/
+Product Manager
+
+1:00pm-2:00pm PST: Mayuri Patel
+https://www.linkedin.com/in/mmarreddypatel/
+
+2:00pm-3:00pm PST: Kyle Wenholz
+https://www.linkedin.com/in/kyle-wenholz-3b591087/
+
+
+If interviewing is no one’s full time job, 
+how can we expect interviews to be conducted with scientific rigor 
+or be improved upon? Or be enjoyable or fair for candidates?
+
+
+
+Interviews - Enjoyable - Predictive - Fair
+
+----------------------------------------------------
+Take home test then session with Interview Engineer? (tortoise Hare)
+	
+Any feedback from type 2 errors(Hire a non-competent candidate)
+	-Hear from the client?
+	
+Any feedback from type 1 errors (reject talented candidate)
+	-Talented employee who is inept (Markopolos warned about Madoff, The holy fool)
+	-"Truth Tellers" that are rejected.
+	-Boy, king with no clothes
+
+What Demographic data do you know or attempt to mask?
+	-Data back from clients to ensure "Predictive"
+	-Men vs Women hired after Karat Interview
+	
+What data does Karat get back from employers
+
+24 hour SLA. How does that manifest itself, Midnight calls?
+
+-----------------------------------------------------
+
+
+How Independent are the interview engineers, what is known about company, req and applicant?
+Quality Control or peer review of Interview results?
+What errors can an interview engineer make? (Errors decrease N interviews conducted increase)
+
+
+How does the context influence the interview
+	-Forgot the time / late notification
+	-Interviewer swapped (Parametric/talking circles)
+	-Option for a Re-do accounts for this error
+	-time (tortoise not good at time limits)
+	
+
+How do you avoid tailoring the interview to a certain candidate?
+	-Is it designed to favor tortoises or hares?
+	-Time limits, smartest or who is smartest fastest.
+	-Finding info Quickly
+	-Harvard or yale and a successful lawyer
+
+	
+What are you screening for?
+	-What would you predict?
+	-Length of tenure
+	-Performance review numbers
+	-Client satisfaction
+	-Screening for bare minimum?
+	-Who gets rejected from Karat (True Negatives)
+
+
+Talking in Circles.
+	-Detailed about explaining their team or role
+	-Karat accounts by not know the organization or requisition?
+	
+Is there any use to the white-board?
+	-Can interviewers "sense" who will be a successful hire
+	-Reject a holy fool
+	-Too filled with Bias?
+	
+
+
+Question Design and Employer expectation?
+	-Data Analyst could mean a lot of things to different people.
+	-How to tailor questions while remaining employer agnostic
+	-Input from the employers on questions?
+	-Practicality (reading CSV from a url and sorting)
+	
+
+
+What can you eliminate from (Job_Req, interviewee anxiety, interview Engineer training, Feedback to clients (they need to understand this!!!))
+	-Things that can be learned on the job don’t impact hiring decision
+	-Things candidates need to come in with do impact hiring decision
+	-What skills does the employer not care about (ETL vs Analysis)
+	
+
+
+Screen Candidates in
+	-submit larger list of people to Karat?
+	-Do more people get to Hiring manager after completing Karat interview?
+	-Avoiding False positives - higher probability a successful candidate will be interviewed
+
+
+
+
+
+
+Null Hypothesis - Hire a successful employee
+
+False positive - reject true null hypothesis - Not hiring a successful candidate - Type 1
+False Negative - accept a false null - Hiring a non-successful Candidate - Type 2
+
+True Positives - accept the null - Hire a successful candidate
+True Negative - reject a false null - Don't hire the non-successful candidate
+	
+
+	
+(Comp Y axis Hire X)
+FP				TP
+High Comp		High Comp
+Don't HIre		Hire
+
+TN				FN
+Low Comp		Low Comp
+Don't Hire		Hire
+
+
+Low P Value (p is low null must go)
+Reject Null -  You are not hiring successful candidates
+Confidence interval - N = 10 4 successful hires - 
+Probability Distribution - of all candidates recommended smaller probability they will be successful
+Result we see in sample is significant to overturn null hypothesis
+
+
+Large P (Do not reject the null, non significant)
+Karats methods are hiring the correct people
+Confidence interval - N=10 9 successful hires.
+Probability Distribution - of all candidates recommended Higher probability they will be successful
+Result we see in sample is not enough to overturn hypothesis of population (hiring good people)
+
+
+
+
+clients include Pinterest, Indeed, Citrix, Intuit, and Palantir.
+Where else are clients being found?
+
+Other disciplines (Verticals) outside of Software engineering CyberSecurity/AI?
+		
+
+
+

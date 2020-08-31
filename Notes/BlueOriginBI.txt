@@ -1,0 +1,76 @@
+“Gradatim Ferociter” is Latin for “Step by Step, Ferociously.” 
+We are not in a race
+
+Bezos says that's his approach to spaceflight. 
+“If you're building a flying vehicle, you can't cut any corners.
+
+
+
+
+12 new shephard
+New Glenn
+Overcoming Technical Debt
+James Whiteland (Director, New Glenn PMO)
+Daniel Kinney (Sr Mgr, Data Analytics & Reporting)
+Evelyn Hathaway
+Leadership Principles
+
+In July 2013, the company employed approximately 250 people.
+
+Entrepreneural start-ups going to space VIA BO rockets
+
+
+
+
+Lunar Lander Mockup
+
+We are proceeding with New Glenn development to fulfill our current commercial contracts, pursue a large and growing commercial market, and enter into new civil space launch contracts. We remain confident New Glenn will play a critical role for the national security community in the future due to the increasing realization that space is a contested domain and a robust, responsive, and resilient launch capability is ever more vital to U.S security. 
+
+Blue Origin is very proud that our BE-4 engine will power United Launch Alliance’s Vulcan launch vehicle in support of the Space Force’s NSSL program and end reliance on Russian-built engines. The BE-4 is the most powerful liquefied natural gas-fueled rocket engine ever developed and the first oxygen-rich staged combustion engine made in the U.S. We look forward to supporting ULA’s long-standing role in launching national security payloads.”
+ 
+
+Description
+
+As part of a small, passionate and accomplished team of experts, you will participate in the development of space launch vehicles for various spaceflight systems. We are seeking a proactive, service-oriented individual with excellent oral, written, interpersonal, and analytic skills who can thrive in a fast paced environment. You will be responsible for creating and delivering insights across a variety stakeholders and business units using your analytics toolkit. This position will directly impact the history of space exploration and will require your dedicated commitment and detailed attention towards safe and repeatable spaceflight.
+
+Responsibilities
+
+·         Design and develop reporting and data solutions utilizing SQL, Tableau, Python, R and other tools
+·         Design and develop automated processes to integrate disparate systems and files to generate business level reporting
+·         Work with stakeholders and subject matter experts to generate reporting, application, and integration requirements
+·         Develop and maintain documentation for the life-cycle of a BI solution.
+·         Provide business analysis and technical expertise to internal and external stakeholders
+·         Maintain day-to-day workflow and communication
+·         Maintain and ensure the stability of Blue Engines Analytics & Reporting data mart and all the tools it supports
+ 
+
+Qualifications
+
+·         Minimum of a Bachelor's degree (in Computer Science, Information Systems, or similar) or minimum of 5+ years of relevant work experience in lieu of degree
+·         2+ years creating business reporting data-sets and data visualizations
+·         Professional or educational experience using SQL to create stored procedures/functions and manage complex data-sets
+·         Experience in data automation, business analytics and data analysis using Python, R or other programming languages.
+·         Experience working with ETL tools and processes
+·         Knowledge of data warehousing concepts (Fact/Dimension/Star schema, etc.)
+·         Proficiency in database interrogation of SQL and NOSQL databases
+·         Strong analytic skill set and a high degree of proficiency in data mining
+·         Excellent written communication and presentation skills
+·         Analytical, organization, and problem solving skills
+·         Attention to detail and high level of accuracy
+·         Ability to identify, document, and communicate data gaps
+·         Strong passion to learn and develop technical acumen and communicate those learnings to a non-technical audience
+·         Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
+
+
+Desired
+
+·         4+ years of professional experience in an analytics or analytics support role
+·         Self-starter, strong bias for action
+·         Strong skills in Tableau, SQL (Postgres and Redshift) and Python
+·         Experience with Git, JIRA, Confluence
+·         Experience presenting information to executive stakeholders
+·         AWS development experience is a plus
+
+
+
+Best,

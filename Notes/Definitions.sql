@@ -1,23 +1,3 @@
-use RAS_APR_Reconciliation
-Drop Table dbo.transactions
-Drop Table dbo.customers
-
-
-CREATE TABLE dbo.customers (
---CustomerID uniqueidentifier primary key DEFAULT NEWSEQUENTIALID() not null,
-CustomerID int IDENTITY (1,1) primary key NOT NULL,
-First_Name nvarchar(50),
-Last_Name nvarchar(50),
-date datetime
-);
-
-
-CREATE TABLE dbo.transactions (
---CustomerID uniqueidentifier foreign key references customers(CustomerID) not null,
-CustomerID int foreign key references customers(CustomerID) not null,
-trans_ID int,
-trans_Date datetime
-);
 
 /* 15) What are the difference between clustered and a non-clustered index?
 	A clustered index is a special type of index that reorders the way records in the table are physically stored. 
@@ -42,46 +22,3 @@ trans_Date datetime
 	
 	
 	*/
-	
---String Functions
-select
-left(carrier_member_id,5),
-right(carrier_member_id,5),
-substring(carrier_member_id,6,3),
-charindex('3',Carrier_Member_id),
-rtrim(carrier_member_id),
-LTRIM(carrier_member_id),
-Carrier_Member_id
-from dbo.RAS_MemberPremiumPayments
-
-
-
----Minus and except, records in one table and not the other
-select aid,last_name from dbo.MMAMembers
-except
-select holder_aid,Last_Name from dbo.RAS_MemberPremiumPayments;
-
-(select aid,last_name from dbo.MMAMembers)
-intersect
-(select holder_aid,Last_Name from dbo.RAS_MemberPremiumPayments)
-
-------authors and books
-
-select * 
-from(
-	select
-	row_number() over(order by  sum(b.sold_copies) desc) as indx,
-	a.author_name,
-	sum(b.sold_copies) books
-	from dbo.authors a 
-		join dbo.books b
-			on a.book_name = b.book_name
-	group by a.author_name
-) x
-where indx = 1
-
---What revision control method do you use
-
-
-commit 
-rollback
