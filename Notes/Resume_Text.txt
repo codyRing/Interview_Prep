@@ -1,0 +1,46 @@
+https://www.linkedin.com/in/cody-ring-rissler/
+https://github.com/codyring
+
+
+Get Insured 
+Data Analyst
+06/01/2017 - Present
+
+ ETL Focal for several platforms and processes relating to Healthcare Enrollments and Billing across GI portfolio.
+ Rewrote and streamlined Procedures using SSIS, T-SQL, PowerShell and to quickly and accurately reconcile premiums for ~8000 members.
+ Built Powershell library and associated SQL tables to ensure quality transformations of between various PII identifiers.
+ Created Power BI dashboard to illustrate top performing sites based on KPI’s such as Number of Primary Enrollments, Plan Selection and possible enrollment population.
+
+
+
+
+Boeing
+Airplane Level Integration Analyst
+05/01/2017
+11/1/2013
+
+ Moved internally to Integrated Parts list Database team to Analyze, Enhance and Improve 787-10 Implementation and Schedule.
+ Wrote MS SQL infrastructure to create Power BI Dashboard displaying statistical reuse of engineering part changes.
+ Provided support and maintained metrics for several ERP and CRM systems using T-SQL, SSIS and PowerShell ensuring timely product delivery.
+
+
+Boeing
+Integrated Scheduler
+11/1/2013
+06/01/2011
+ Lead Section 41 team through Non-Recurring Product Development of the 787-10.
+ Main Liaison between Scheduling and Database teams. Translated business and engineering requirements into a useable Data Warehouse.
+ Advanced Standard Work teams use of internal SQL databases to compliment manufacturing installation observations.
+
+
+
+ 9 year's experience with data analysis or Business intelligence in multiple industries.
+ Built or Rebuilt Data pipelines using SQL,SSIS, Powershell and Python with a variety of data.
+ Created visualizations and metrics from business requirements using Tableau and Power BI to create meaningful KPI’s.
+ Advanced Data Science abilities through seeking more challenging projects, learning opportunities and careers
+
+
+apply full time with FB only once every 6 months
+
+97525-1 
+Title: SDE/Data Analyst/BI Analyst
