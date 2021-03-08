@@ -3,3 +3,5 @@ ipynb_checkpoints
 Photos
 jobs.txt
 data/*
+.idea/*
+venv/
