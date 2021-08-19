@@ -296,4 +296,64 @@ WHERE indx <= 3
 
 
 
+DROP TABLE IF EXISTS one;
+create temp TABLE one(id INT);
+INSERT INTO one (id)
+VALUES 
+	 (1)
+	,(1)
+	,(NULL);
+	
+DROP TABLE IF EXISTS two;
+create temp TABLE two (id INT);
+INSERT INTO two (id)
+VALUES 
+	 (1)
+	,(1)
+	,(NULL)
+	,(NULL);
+	
+
+
+------Inner 4
+SELECT 
+	 a.*
+	,b.*
+FROM one a
+	Inner JOIN two b 	
+		ON a.id = b.id;
+		
+		
+------LOJ 5
+SELECT 
+	 a.*
+	,b.*
+FROM one a
+	left outer JOIN two b 	
+		ON a.id = b.id;
+		
+		
+------ROJ 6
+SELECT 
+	 a.*
+	,b.*
+FROM one a
+	Right outer JOIN two b 	
+		ON a.id = b.id;
+	
+	
+------FOJ 7
+SELECT 
+	 a.*
+	,b.*
+FROM one a
+	full outer JOIN two b 	
+		ON a.id = b.id;
+
+
+
+
+
+
+
 
